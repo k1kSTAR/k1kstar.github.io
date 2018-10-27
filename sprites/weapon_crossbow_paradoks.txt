@@ -1,0 +1,8 @@
+8
+weapon			640 paradoks_cso/640hud36	0	180	170	45
+weapon_s		640 paradoks_cso/640hud61	0	180	170	45
+ammo			640 paradoks_cso/640hud7x	216	124	24	24
+crosshair			640 crosshairs		24	0	24	24
+autoaim			640 crosshairs		0	72	24	24
+zoom			640 paradoks_cso/scope_paradoks_crossbow		0	0	256	256
+zoom_autoaim	640 paradoks_cso/scope_paradoks_crossbow		0	0	256	256

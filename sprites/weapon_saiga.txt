@@ -1,0 +1,4 @@
+5
+weapon			640 saiga	0	0	170	45
+weapon_s		640 saiga	0	45	170	45
+ammo			640 640hud7	0	72	24	24
